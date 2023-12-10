@@ -1,0 +1,32 @@
+0000000000000000000000000000000000000000 db7c7b48a11b390a39f58421b8fa3fe65be31c29 Thiago <thiago@thiago-VirtualBox.(none)> 1697123026 -0300	clone: from https://github.com/macaroots/hello_node.git
+db7c7b48a11b390a39f58421b8fa3fe65be31c29 29ee90a13618f2ca8d918cf45ce71f6411d5d38e Thiago <cadore2281@gmail.com> 1697301907 -0300	commit: Tarefa semana 1
+29ee90a13618f2ca8d918cf45ce71f6411d5d38e 6e1e523d470a3fca2411cf7d9b06237f4ff17c42 Thiago <cadore2281@gmail.com> 1697827187 -0300	commit: Corrige identacao
+6e1e523d470a3fca2411cf7d9b06237f4ff17c42 8e0e95a03d6fce380e93382e0a3da9c5d39939b9 Thiago <cadore2281@gmail.com> 1697828947 -0300	commit: Correcao
+8e0e95a03d6fce380e93382e0a3da9c5d39939b9 8e0e95a03d6fce380e93382e0a3da9c5d39939b9 Thiago <cadore2281@gmail.com> 1697895513 -0300	checkout: moving from main to semana2_mvc
+8e0e95a03d6fce380e93382e0a3da9c5d39939b9 37678b19fbf71a488038bd64e5e92557db29f314 Thiago <cadore2281@gmail.com> 1698011192 -0300	commit: semana 2
+37678b19fbf71a488038bd64e5e92557db29f314 4f2d3ce2b4389d36a78b04ac0a5d90cf158679ef Thiago <cadore2281@gmail.com> 1698365843 -0300	commit: semana2_correcao
+4f2d3ce2b4389d36a78b04ac0a5d90cf158679ef 4f2d3ce2b4389d36a78b04ac0a5d90cf158679ef Thiago <cadore2281@gmail.com> 1699149020 -0300	checkout: moving from semana2_mvc to semana2-nomenclatura
+4f2d3ce2b4389d36a78b04ac0a5d90cf158679ef 4dc03112dc6bb6eb7737ed4f3c9e1de13c4b8ecc Thiago <cadore2281@gmail.com> 1699149137 -0300	commit: nomenclatura
+4dc03112dc6bb6eb7737ed4f3c9e1de13c4b8ecc 4dc03112dc6bb6eb7737ed4f3c9e1de13c4b8ecc Thiago <cadore2281@gmail.com> 1699149734 -0300	checkout: moving from semana2-nomenclatura to semana3-REST
+4dc03112dc6bb6eb7737ed4f3c9e1de13c4b8ecc 06d3362ec994e17874c99699c62f4fb4e3264ee8 Thiago <cadore2281@gmail.com> 1699153994 -0300	commit: semana3_restv1
+06d3362ec994e17874c99699c62f4fb4e3264ee8 206471d895edfdc2f840495f9d26e11d71e72cb7 Thiago <cadore2281@gmail.com> 1699204927 -0300	commit: semana3
+206471d895edfdc2f840495f9d26e11d71e72cb7 e4cb6e0ab456c0c9e5106d90bb4970b7df224e5f Thiago <cadore2281@gmail.com> 1699397483 -0300	commit: Adiciona package
+e4cb6e0ab456c0c9e5106d90bb4970b7df224e5f e4cb6e0ab456c0c9e5106d90bb4970b7df224e5f Thiago <cadore2281@gmail.com> 1699397748 -0300	checkout: moving from semana3-REST to semana4_aut
+e4cb6e0ab456c0c9e5106d90bb4970b7df224e5f 6e6fa7d9b25308ae8b5da19f8334f943ddcea2b5 Thiago <cadore2281@gmail.com> 1699405843 -0300	commit: v1 auth
+6e6fa7d9b25308ae8b5da19f8334f943ddcea2b5 ea6f623a779afe69ab0a5bb439fe52a3224e6a7a Thiago <cadore2281@gmail.com> 1699642207 -0300	commit: semana4-add auth
+ea6f623a779afe69ab0a5bb439fe52a3224e6a7a e4cb6e0ab456c0c9e5106d90bb4970b7df224e5f Thiago <cadore2281@gmail.com> 1699642417 -0300	checkout: moving from semana4_aut to semana3-REST
+e4cb6e0ab456c0c9e5106d90bb4970b7df224e5f 8e0e95a03d6fce380e93382e0a3da9c5d39939b9 Thiago <cadore2281@gmail.com> 1699642499 -0300	checkout: moving from semana3-REST to main
+8e0e95a03d6fce380e93382e0a3da9c5d39939b9 8e0e95a03d6fce380e93382e0a3da9c5d39939b9 Thiago <cadore2281@gmail.com> 1699642512 -0300	checkout: moving from main to semana1
+8e0e95a03d6fce380e93382e0a3da9c5d39939b9 8e0e95a03d6fce380e93382e0a3da9c5d39939b9 Thiago <cadore2281@gmail.com> 1699642541 -0300	checkout: moving from semana1 to main
+8e0e95a03d6fce380e93382e0a3da9c5d39939b9 ea6f623a779afe69ab0a5bb439fe52a3224e6a7a Thiago <cadore2281@gmail.com> 1699642563 -0300	merge semana4_aut: Fast-forward
+ea6f623a779afe69ab0a5bb439fe52a3224e6a7a 4dc03112dc6bb6eb7737ed4f3c9e1de13c4b8ecc Thiago <cadore2281@gmail.com> 1699642649 -0300	checkout: moving from main to semana2-nomenclatura
+4dc03112dc6bb6eb7737ed4f3c9e1de13c4b8ecc ea6f623a779afe69ab0a5bb439fe52a3224e6a7a Thiago <cadore2281@gmail.com> 1699642878 -0300	checkout: moving from semana2-nomenclatura to semana4_aut
+ea6f623a779afe69ab0a5bb439fe52a3224e6a7a 74ed2eb46353745c89c605eb499b2e23e63c945c Thiago <cadore2281@gmail.com> 1699714443 -0300	commit: inclui usuarios
+74ed2eb46353745c89c605eb499b2e23e63c945c 74ed2eb46353745c89c605eb499b2e23e63c945c Thiago <cadore2281@gmail.com> 1699714769 -0300	checkout: moving from semana4_aut to semana5_bd
+74ed2eb46353745c89c605eb499b2e23e63c945c 94bcff536fe6a06970d32e7f647e7aecae391a78 Thiago <cadore2281@gmail.com> 1700057353 -0300	commit: atualizacao funcoes apagar alterar
+94bcff536fe6a06970d32e7f647e7aecae391a78 94bcff536fe6a06970d32e7f647e7aecae391a78 Thiago <cadore2281@gmail.com> 1700402893 -0300	checkout: moving from semana5_bd to semana6-dom
+94bcff536fe6a06970d32e7f647e7aecae391a78 6e0452324940300e7ee9b115e4b09308194035ff Thiago <cadore2281@gmail.com> 1700841861 -0300	commit: semana6-dom
+6e0452324940300e7ee9b115e4b09308194035ff 4ce6e1cb7c420fef26f66dd0f140333d759d7f95 Thiago <cadore2281@gmail.com> 1700842382 -0300	commit: complemento semana6
+4ce6e1cb7c420fef26f66dd0f140333d759d7f95 4ce4dfeadddd08ff69221c7eaebc23cbceafe79a Thiago <cadore2281@gmail.com> 1700854430 -0300	commit: semana6-final
+4ce4dfeadddd08ff69221c7eaebc23cbceafe79a 4ce4dfeadddd08ff69221c7eaebc23cbceafe79a Thiago <cadore2281@gmail.com> 1701004002 -0300	checkout: moving from semana6-dom to semana7-fetch
+4ce4dfeadddd08ff69221c7eaebc23cbceafe79a 410460ea6f9e05eaecccde59a6366bc8d6f1d053 Thiago <cadore2281@gmail.com> 1701012977 -0300	commit: add fetch
