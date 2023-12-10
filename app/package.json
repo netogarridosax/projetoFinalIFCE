@@ -1,15 +1,15 @@
 {
-  "name": "area_f",
+  "name": "publicitario",
   "version": "1.0.0",
-  "description": "projeto academico",
+  "description": "Projeto desWebII",
   "main": "app.js",
   "scripts": {
     "start": "nodemon app.js"
   },
   "keywords": [
-    "academico"
+    "DesWebII"
   ],
-  "author": "Thiago Cadore Vale",
+  "author": "Francisco Lourival Garrido Neto",
   "license": "Apache-2.0",
   "dependencies": {
     "bcrypt": "^5.1.1",
