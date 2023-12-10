@@ -1,0 +1,29 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = git@github.com:Thiago2281/cursoifce.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "main"]
+	remote = origin
+	merge = refs/heads/main
+[branch "semana2_mvc"]
+	remote = origin
+	merge = refs/heads/semana2_mvc
+[branch "semana3-REST"]
+	remote = origin
+	merge = refs/heads/semana3-REST
+[branch "semana4_aut"]
+	remote = origin
+	merge = refs/heads/semana4_aut
+[branch "semana5_bd"]
+	remote = origin
+	merge = refs/heads/semana4_aut
+[branch "semana6-dom"]
+	remote = origin
+	merge = refs/heads/semana6-dom
+[branch "semana7-fetch"]
+	remote = origin
+	merge = refs/heads/semana7-fetch
