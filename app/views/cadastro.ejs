@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title> Rondon </title>
+        <link rel="stylesheet" href="/_css/style.css">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Tenor">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Oswald">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Bebas Neue">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto Slab">
+    </head>
+<body>
+    <header>
+    <%- include('/home/node/app/views/cabecalho.ejs') %> 
+    </header>
+
+    <section>
+        <form id="formulario_center">
+            <h2>Cadastro</h2><br>
+            <label for="usuario">Usuário</label><br>
+            <input type="text" id="usuario" name="usuario"><br>
+            <label for="password">Senha</label><br>
+            <input type="password" id="password" name="password"><br>
+            <label for="email">E-mail</label><br>
+            <input type="text" id="email" name="email"><br><br>
+            <input type="submit" value="Cadastrar" class="button button2">
+        </form>
+    </section>
+    <footer id="footer">
+        <p id="texto_noticia"> Desenvolvido por </p1><a href="contate">Thiago</a>
+    </footer>
+</body>
+
+</html>

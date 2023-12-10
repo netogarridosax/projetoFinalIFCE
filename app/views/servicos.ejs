@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="shortcut icon" href="/_img/ngcar.ico" type="image/x-icon">
+  <title>NG CAR SERVICE</title>
+  <link rel="stylesheet" href="/_css/servicos.css">
+</head>
+
+<body>
+  <input type="checkbox" id="chec">
+  <label for="chec">
+    <img src="/_img/cardapio.png" class="menu">
+  </label>
+  <%- include('/home/node/app/views/cabecalho.ejs') %>
+  <div class="logo">
+    <img src="/_img/logongcar.png" alt="logongcar">
+  </div>
+  <div class="h1">
+    <h1>SERVIÇOS</h1>
+  </div>
+  <section>
+    <ul class="lista">
+
+        <%
+for (let servico of servicos) {
+%>
+            <!-- <article> -->
+                <p1><%= servico.nome %></p1>
+                <p1>- <%= servico.descricao %></p1><br><br>
+            <!-- </article> -->
+<%
+}
+%>
+    </ul>
+  </section>
+  <section>
+    <div class="imagem">
+      <img src="/_img/imagempgservico.JPG" alt="mecanico realizando reaperto de suspensão do veículo">
+    </div>
+  </section>
+
+  <footer class="footer-text">
+    Desenvolvido por <a href="paginasobre.html">Garrido</a>
+  </footer>
+
+</body>
+
+</html>
