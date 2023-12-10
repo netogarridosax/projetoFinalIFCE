@@ -1,0 +1,7 @@
+# pack-refs with: peeled fully-peeled sorted 
+db7c7b48a11b390a39f58421b8fa3fe65be31c29 refs/remotes/origin/main
+665bc37aa78b80c4f4c16154daf5d7119373fdc4 refs/remotes/origin/semana1-basic-io
+e57138ca0051cbbc4f701cfbebb4f8d4bcc55232 refs/remotes/origin/semana2-mvc
+67fe00cd0197eecee8656e6fcabcf6cb9ec5473a refs/remotes/origin/semana3-rest
+23d49706ea8a976ae12982f624f3f299a9e5b784 refs/remotes/origin/semana4-auth
+272e0bda871cdf366097fd276fdaf714a5c1362a refs/tags/blank
